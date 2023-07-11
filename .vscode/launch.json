@@ -1,0 +1,45 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "flutter_bloc_single_state_class_example",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_bloc_single_state_class_example (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_bloc_single_state_class_example (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "api_service",
+            "cwd": "packages\\api_service",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "api_service (profile mode)",
+            "cwd": "packages\\api_service",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "api_service (release mode)",
+            "cwd": "packages\\api_service",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
