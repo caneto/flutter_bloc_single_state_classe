@@ -1,4 +1,4 @@
-# bloc_single_state_class_example
+# bloc_single_state_class
 
 A new Flutter project.
 
