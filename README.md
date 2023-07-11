@@ -1,16 +1,38 @@
-# bloc_single_state_class
+## Projeto de Teste de uma capitulo do Ebook de Flutter
 
-A new Flutter project.
+<b>Single State Class - BloC</b>
 
-## Getting Started
+<table> 
+  <tr>
+    <td> 
+      <b>Main -> Estartando o BlocProvider</b>
+    </td>
+    <td>
+      <b>HomeBloc</br> (Controlando eventos, view, e status)
+    </td>
+  </tr>
+</table>   
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<h2>🛠️ Funcionalidades e Tecnologias Estudadas</h2>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Simple State Class - BloC
+- BloC como Gerenciamento de Estado
+- Principais packages utilizados.
+  - flutter_bloc - 8.1.3
+  - equatable - 2.0.5
+  - cache_network_image - 3.2.3
+  - http - 0.13.6
+  
+  entre outros
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h2>📝 Licença</h2>
+
+<p>
+   Esse repositório está sobre a Licença GNU General Public License v3.0, e você pode vê-la no arquivo <a href="https://github.com/caneto/calculator-app/blob/main/LICENSE">LICENSE</a> para mais detalhes. 😉
+</p>
+
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Alberto-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/canetorj/)](https://www.linkedin.com/in/canetorj/)
