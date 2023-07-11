@@ -1,0 +1,1 @@
+# flutter_bloc_single_state_classe
